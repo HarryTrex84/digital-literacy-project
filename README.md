@@ -13,8 +13,12 @@ Branch: Int M.Tech in AI and bioinformatics
 
 
 Year: 1st Year (2025 - 2030)
-## 🎨 First Task: Infographic
+## 🎨 Task 1: Infographic
 used Canva to create a visually appealing infographic that explains digital literacy concepts like email etiquette and safe internet practices.
+
+🔗 **Links**
+
+- canva [https://www.canva.com/design/DAHFEE21uFU/JZHVebA5LY-wWQWVKRic4A/edit?utm_content=DAHFEE21uFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 ## 💼 Task 2 – Digital Portfolio
 Developed my professional presence by creating profiles on GitHub, LinkedIn, and Kaggle.
 

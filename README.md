@@ -24,9 +24,9 @@ Developed my professional presence by creating profiles on GitHub, LinkedIn, and
 - Kaggle → Learning data science [https://www.kaggle.com/divy25mib10044]
 
 📁 **Files:**
-- `task-2-portfolio/github-profile.png`  
-- `task-2-portfolio/linkedin-profile.png`  
-- `task-2-portfolio/kaggle-profile.png`  
+- ![GitHub Profile](task-2-portfolio/github-profile.png)
+- ![LinkedIn Profile](task-2-portfolio/linkedin-profile.png)
+- ![Kaggle Profile](task-2-portfolio/kaggle-profile.png) 
 ## 💻 Task 3 – Platforms
 Completed a beginner coding challenge and created a Digital Literacy quiz using Google Forms.
 

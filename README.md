@@ -19,9 +19,9 @@ used Canva to create a visually appealing infographic that explains digital lite
 Developed my professional presence by creating profiles on GitHub, LinkedIn, and Kaggle.
 
 🔍 **Purpose:**
-- GitHub → Showcase coding work  
-- LinkedIn → Professional networking  
-- Kaggle → Learning data science  
+- GitHub → Showcase coding work [https://github.com/HarryTrex84]
+- LinkedIn → Professional networking [https://www.linkedin.com/in/divy-vishwakarma-9b80a6391/]
+- Kaggle → Learning data science [https://www.kaggle.com/divy25mib10044]
 
 📁 **Files:**
 - `task-2-portfolio/github-profile.png`  
@@ -33,6 +33,13 @@ Completed a beginner coding challenge and created a Digital Literacy quiz using 
 📁 **Files:**
 - Screenshots available in `task-3-platforms/`
 
+🔗 **Links**
+
+- Google Forms
+https://docs.google.com/forms/d/e/1FAIpQLSd9A6ulJ0Op1Dmlf9r7u0UMzRkrgiXuWvQN2vqMOqNYsLw6VQ/viewform?usp=publish-editor
+
+- Google spreadsheet
+https://docs.google.com/spreadsheets/d/12vFn2zCItYdSa2dEkDr44RvCq5xYhXZWYsETxNzwsoo/edit?usp=sharing
 ## 📧 Task 4 – Email Etiquette & Communication
 Drafted professional emails and created a social media responsibility checklist.
 

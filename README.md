@@ -38,6 +38,9 @@ Completed a beginner coding challenge and created a Digital Literacy quiz using 
 📁 **Files:**
 - Screenshots available in `task-3-platforms/`
 
+🌐 **Platform**
+  - Hackerrank - [https://www.hackerrank.com]
+
 🔗 **Links**
 
 - Google Forms

@@ -3,6 +3,8 @@
 
 Welcome to my portfolio of digital literacy skills. I created this repository as a Student Digital Ambassador to highlight my experience completing the five CSE0001 course modules. This project is an all-inclusive tool for safely, professionally, and successfully navigating the online world.
 
+#  💻 This Digital Literacy Portfolio is a project based on a course titled CSE0001 completed at VIT Bhopal. The main idea behind this course is to hone your basic digital literacy skills to use digital platforms efficiently. The projects undertaken in this course include creating an infographic, designing a professional portfolio, exploring coding websites, mastering email etiquette, and many such activities. Another important aspect is being aware of cyber crimes and how to avoid them. Through this portfolio, I haven’t just enhanced my digital literacy, communication, and online presence, but also learned to appreciate the importance of digital literacy in today’s technology-saturated world.
+
 
 ## 🧑‍💻 Student Information
 Name: Divy Vishwakarma

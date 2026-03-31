@@ -32,7 +32,7 @@ Developed my professional presence by creating profiles on GitHub, LinkedIn, and
 
 📁 **Files:**
 - `task-2-portfolio/github-profile.png`  
-- `task-2-portfolio/linkedin-profile.png`  
+- `task-2-portfolio/linkedIn-profile.png`  
 - `task-2-portfolio/kaggle-profile.png`  
 
 ## 💻 Task 3 – Platforms

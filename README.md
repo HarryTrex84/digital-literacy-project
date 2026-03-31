@@ -55,8 +55,8 @@ https://docs.google.com/spreadsheets/d/12vFn2zCItYdSa2dEkDr44RvCq5xYhXZWYsETxNzw
 Drafted professional emails and created a social media responsibility checklist.
 
 📁 **Files:**
-- `task-4-email-etiquette/email1.txt`  
-- `task-4-email-etiquette/email2.txt`  
+- `task-4-email-etiquette/Email(1).txt`  
+- `task-4-email-etiquette/Email(2).txt`  
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 ## 🔐 Task 5 – Cybercrime Awareness

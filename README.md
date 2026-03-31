@@ -4,7 +4,7 @@
 Welcome to my portfolio of digital literacy skills. I created this repository as a Student Digital Ambassador to highlight my experience completing the five CSE0001 course modules. This project is an all-inclusive tool for safely, professionally, and successfully navigating the online world.
 
 #  💻 About this project
-This Digital Literacy Portfolio is a project based on a course titled CSE0001 completed at VIT Bhopal. The main idea behind this course is to hone your basic digital literacy skills to use digital platforms efficiently. The projects undertaken in this course include creating an infographic, designing a professional portfolio, exploring coding websites, mastering email etiquette, and many such activities. Another important aspect is being aware of cyber crimes and how to avoid them. Through this portfolio, I haven’t just enhanced my digital literacy, communication, and online presence, but also learned to appreciate the importance of digital literacy in today’s technology-saturated world.
+This Digital Literacy Portfolio is a project based on a course titled CSE0001 completed at VIT Bhopal. The main idea behind this course is to know your basic digital literacy skills to use digital platforms efficiently. The projects undertaken in this course include creating an infographic, designing a professional portfolio, exploring coding websites, mastering email etiquette, and many such activities. Another important aspect is being aware of cyber crimes and how to avoid them. Through this portfolio, I haven’t just enhanced my digital literacy, communication, and online presence, but also learned to appreciate the importance of digital literacy in today’s technology-saturated world.
 
 
 ## 🧑‍💻 Student Information
@@ -17,13 +17,13 @@ Branch: Int M.Tech in AI and bioinformatics
 
 Year: 1st Year (2025 - 2030)
 ## 🎨 Task 1: Infographic
-used Canva to create a visually appealing infographic that explains digital literacy concepts like email etiquette and safe internet practices.
+used Canva to create a visually appealing infographic that explains digital literacy concepts like email etiquette and safe internet practices and explaining digital literacy.
 
 🔗 **Links**
 
 - canva [https://www.canva.com/design/DAHFEE21uFU/JZHVebA5LY-wWQWVKRic4A/edit?utm_content=DAHFEE21uFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 ## 💼 Task 2 – Digital Portfolio
-Developed my professional presence by creating profiles on GitHub, LinkedIn, and Kaggle.
+Developed my professional presence and a profile status by creating profiles on GitHub, LinkedIn, and Kaggle.
 
 🔍 **Purpose:**
 - GitHub → Showcase coding work [https://github.com/HarryTrex84]
@@ -36,7 +36,7 @@ Developed my professional presence by creating profiles on GitHub, LinkedIn, and
 - `task-2-portfolio/kaggle-profile.png`  
 
 ## 💻 Task 3 – Platforms
-Completed a beginner coding challenge and created a Digital Literacy quiz using Google Forms.
+Completed a beginner coding challenge and created a Digital Literacy quiz using Google Forms along with Spread sheet.
 
 📁 **Files:**
 - Screenshots available in `task-3-platforms/`
@@ -60,7 +60,7 @@ Drafted professional emails and created a social media responsibility checklist.
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 ## 🔐 Task 5 – Cybercrime Awareness
-Prepared a case study on cyberbullying along with a prevention checklist to promote online safety.
+Prepared a case study on cyberbullying along with a prevention checklist to promote online safety and precautions for betterment for people using digital world .
 
 📁 **Files:**
 - `task-5-cybercrime/casestudy.pdf`  
